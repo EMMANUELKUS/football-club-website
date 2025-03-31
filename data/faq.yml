@@ -2,20 +2,19 @@
 enable: true
 title: "Frequently Asked Questions"
 faq:
-  - question: "Q. How do I apply?"
+  - question: "Q. How can i join the club?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Where can I find out about funding?"
+            Reach to us on our email or contact us on the numbers below the site!
+  - question: "Q. Where can I find STWFC?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How can I make a change to my application?"
+            STWFC is located at sunyani, brong ahafo in Ghana?
+  - question: "Q. Has any players from the team, get a professional contract?"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "Q. What are entry requirements?"
+            Sunayni The Wisers FC has nurture a lot players and most of our former players are playing at the highest level!
+  - question: "Q. Who is the coach and who is the ceo?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How do I get a reference?"
+            The name of our senior coach is Osman Ramzy and our ceo is Mr Owusu Yeboah George!
+  - question: "Q. Did Afena Gyan played for your team?" 
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+            Yes Afena Gyan played for our team when we were playing in the 3rd division!
 ---

@@ -2,12 +2,12 @@ baseURL = ''
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
-title = 'coHub'
+title = 'STWFC'
  
 
   # Main Menu
   [[menu.Main]]
-  name = "Fixtures"
+  name = "Our Club"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
@@ -15,15 +15,15 @@ title = 'coHub'
   url= "#service"
   weight = 1
   [[menu.Main]]
-  name = "About"
+  name = "Club History"
   url= "/about/"
   weight = 3
   [[menu.Main]]
-  name = "Blog"
+  name = "Our Achievements"
   url= "#blog"
   weight = 4
   [[menu.Main]]
-  name = "Pricing"
+  name = "Player Profile"
   url= "#pricing"
   weight = 5
   [[menu.Main]]
@@ -31,7 +31,7 @@ title = 'coHub'
   url= "#faq"
   weight = 6
   [[menu.Main]]
-  name = "Contact"
+  name = "Contact Us"
   url= "/contact/"
   weight = 7
 
@@ -52,16 +52,17 @@ title = 'coHub'
   copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
   fabFormURL =  "https://fabform.io/f/u00kv3-"
   googleAnalytics = "G-JZ95FEWF9K"
-  logo = "images/logo.png"
-  footerlogo = "images/logo.png"
-  footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
+  logo = "images/Club Logo.jpeg"
+  footerlogo = "images/Club Logo.jpeg"
+  footerDescription = ""
 
   [params.address]
-  address = "115 W 18th St. <br>  New York, NY 10011"
-  email = "hello@example.com"
-  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
+  address = "Sunyani,P.O.Box SY1591"
+  email = "sunyaniwisesfc33@gmail.com"
+  openingDesc = "Give us a call or email us anytime, we endeavour to answer all enquiries within 24 hours"
   openingHours = "We are open from 7am — 7pm week days."
-  phone = "+(448) 833 5272 332"
+  phone = "+(49)17680773775 Or +(233)548553156"
+         
 
   [params.map]
   APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"

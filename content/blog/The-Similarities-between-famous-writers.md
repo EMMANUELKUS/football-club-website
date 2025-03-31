@@ -1,24 +1,7 @@
 ---
-title: "The Similarities Between Famous Writers"
-date: 2022-01-06T11:18:32+06:00
-featureImage: images/blog/blog-thumb-1.jpg
+title: "Our former player Afena Gyan currently at Juventus FC in Italy"
+date: 2025-03-26T11:18:32+06:00
+featureImage: images/blog/IMG_9220.jpeg
 tags: ["Marketing","News", "Web Design"]
 ---
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
-
-  ### A sample heading 
-  
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  > “Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex deleniti porro impedit iure nisi, eius sapiente dolorum magni tempora harum!”
-
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-
-  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore mollitia quas maiores, error magnam distinctio doloribus fugiat ea minima incidunt odio facere nam nisi quod nobis aut quae aliquid. Atque voluptas esse voluptate. Placeat laudantium veniam, repellendus laboriosam blanditiis commodi!
-  
-  - List item number 01
-  - List item number 02
-  - List item number 03
-  - List item number 04
-  - List item number 05
-  - List item number 06
-
+ We discovered our former player Afena Gyan when he was still a student of Berekum Presec, that time, the name of our team was "Ayim Stuggatta SC", he was one of the best strikers that ever came from our team and now he is making his name in Europoe and showing what he can do. 

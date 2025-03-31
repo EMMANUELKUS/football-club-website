@@ -1,27 +1,26 @@
 ---
 enable: true
-title: "Simple pricing for everyone"
+title: "Great players we have in the team"
 subtitle: >
-          Whether you're looking for a full-time workspace or are just visiting Melbourne,
-           we've got an option for everyone
+          Sunyani The Wisers FC has produced some wonderful and dedicated players and has build a very stronger team 
 buttonTarget: "contact"
 itemPrices:
-  - packcage: "Daily"
+  - packcage: "Goalkeepers"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Expedita pariatur quidem, impedit ipsa repellat sed!
-    price: 19
-    badge: 
-  - packcage: "Weekly"
+                
+
+              
+    price:
+    badge: Defenders
+  - packcage: "Defenders"
     description: >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Libero exercitationem sed eius autem quisquam sapiente?
-    price: 79
-    badge: popular
-  - packcage: "Monthly"
+                
+    pricehugo: 
+    badge: Midfielders
+  - packcage: "Midfielders"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
-                quas nesciunt vitae suscipit necessitatibus ea.
-    price: 99
-    badge:
+               
+    price:
+    badge: Attackers
+    Package: "Attackers"
 ---

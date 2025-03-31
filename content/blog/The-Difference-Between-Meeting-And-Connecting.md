@@ -1,7 +1,7 @@
 ---
-title: "The Difference Between Meeting and Connecting"
-date: 2022-01-06T11:17:17+06:00
-featureImage: images/blog/blog-thumb-3.jpg
+title: "Listowel Amankona our former player currently at Al Masry SC in Egypt"
+date: 2026-03-26T11:17:17+06:00
+featureImage: images/blog/82df98fe-eded-443b-ac40-8ffbf93cc52b.jpeg
 tags: ["Marketing", "Web Design"]
 ---
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?

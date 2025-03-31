@@ -1,38 +1,32 @@
 ---
 enable: true
-title: "Why Choose us?"
+title: "Why join us?"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          We enable the young footballers to show their talent to the world 
+          and also connect them to the big stages and introduce them to clubs in europe and around the world
 services:
-  - name: "largest Network"
+  - name: "Sponsor Our Team"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                 As the founder of Sunyani The Wisers Football Club, a team full of young players who are talented and passionated about football, we are seeking for sponsors and partners to help give these youths a great future, please partner with us, sponsor us and we have great things to offer that will help both parties.
     icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+  - name: ""
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                
     icon: "ti-infinite"
   - name: "Dedicated Account Manager"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                
     icon: "ti-help-alt"
   - name: "Easy Payment"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                
     icon: "ti-credit-card"
   - name: "Dedicated Locker"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                
     icon: "ti-lock"
   - name: "Personalization"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                
     icon: "ti-image"
 ---

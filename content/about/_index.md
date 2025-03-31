@@ -2,7 +2,7 @@
 title: "About"
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
-        Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.
+        Sunyani The Wiser Football Club was founded in 2015 by the Ceo Mr George Owusu Yeboah and has produce a lot of talents and made a lot of history, The team is located im berekum in brong ahafo region in Ghana.
 sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
@@ -10,7 +10,4 @@ sliderImage:
 ---
 ## This Is Our Story.
 
-We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
-ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
-financial partner just as progressive.One that adapts to your needs, gives you control and constantly pushes
-you into new exciting spaces.
+We’re here to bring life into the young ones who think their dreams are dead and create opportunity for those who doen"t have, and to make them achieve their goals in football.

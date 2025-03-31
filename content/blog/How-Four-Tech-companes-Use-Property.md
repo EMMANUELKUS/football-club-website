@@ -1,7 +1,7 @@
 ---
-title: "How Four Tech Companes Use Property"
+title: "Our former goalkeeper Nash currently at Cartagena Fc in Spain"
 date: 2022-01-06T11:15:47+06:00
-featureImage: images/blog/blog-thumb-2.jpg
+featureImage: images/blog/Nash 2.jpeg
 tags: ["Marketing", "Web Design"]
 ---
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eius eum dolor voluptatum autem minima magni soluta reiciendis corrupti, iste odio, minus odit voluptates rerum veritatis nam vel! Odio, totam?
