@@ -1,4 +1,7 @@
 [module]
   [module.hugoVersion]
-    extended = true
-    min = "0.41.0"
+    # Had difficulty running this on a Darwin/arm64 sysytem
+    # ERROR: Module "coHub" is not compatible with this Hugo version; 
+    #  run "hugo mod graph" for more information. (no useful info there)
+    # extended = true
+    # min = "0.92.2"
