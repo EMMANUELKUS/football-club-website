@@ -1,6 +1,5 @@
 # TODO
 
-- [ ] todo 1
    ## Most Important
    * Changing the map
    * Adding the partnership or sponsorship requesta
