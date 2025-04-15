@@ -5,7 +5,8 @@
       <div class="col-lg-6">
         {{ $map := .Site.Params.map }}
         <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
-          hello map
+          <iframe src="https://www.openstreetmap.org/export/embed.html?layer=mapquest&marker=7.45768,-2.58421&bbox=-2.58,7.43,-2.59,7.47" 
+          title="W3Schools Free Online Web Tutorials"></iframe>
         </div>
       </div>
       <div class="col-lg-6">
