@@ -6,7 +6,10 @@ These are the things that we want to do. Items that come first in the list are h
   - [x] Subtask 1:  Find the part of the site that contains what we want to replace (the Google map HTML code).
   - [x] Subtask 2: Create the new HTML code to replace the Google map HTML part
   - [x] Subtask 3: Test if the replacement works
-- [ ] Task: Adding the team's social media handles to the site :
+- [ ] Task: Adding the team's social media handles to the site :mail:
+  - [ ] Subtask 1: Add TikTok Link
+  - [ ] Subtask 2: Add Facebook Link
+  - [ ] Subtask 3: Remove Instagram, Dribble, and Twitter 
 - [ ] Task: Adding a request for partnership
 - [ ] Task: Adding the players photos and their profiles 
 - [ ] Task: Adding what is going on in the team to the "News and Updates" session
