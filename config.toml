@@ -76,7 +76,7 @@ title = 'STWFC'
   url = "https://www.facebook.com/"
   weight = 1
   [[params.social]]
-  icon = "ti-vimeo"
+  icon = "fa-brands fa-tiktok"
   url = "https://www.tiktok.com/@sunyanithewisers_2014"
   weight = 2
   
