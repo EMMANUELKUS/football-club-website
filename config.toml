@@ -76,16 +76,10 @@ title = 'STWFC'
   url = "https://www.facebook.com/"
   weight = 1
   [[params.social]]
-  icon = "ti-twitter-alt"
-  url = "https://twitter.com/"
+  icon = "ti-vimeo"
+  url = "https://www.tiktok.com/@sunyanithewisers_2014"
   weight = 2
-  [[params.social]]
-  icon = "ti-dribbble"
-  url = "https://dribbble.com/"
-  weight = 3
-  [[params.social]]
-  icon = "ti-instagram"
-  url = "https://www.instagram.com/"
-  weight = 4
+  
+ 
   
   
