@@ -6,9 +6,9 @@ These are the things that we want to do. Items that come first in the list are h
   - [x] Subtask 1:  Find the part of the site that contains what we want to replace (the Google map HTML code).
   - [x] Subtask 2: Create the new HTML code to replace the Google map HTML part
   - [x] Subtask 3: Test if the replacement works
-- [ ] Task: Adding the team's social media handles to the site :mail:
+- [x] Task: Adding the team's social media handles to the site :mail:
   - [x] Subtask 1: Change the config.toml file to only keep the Facebook/TikTok links
-  - [ ] Subtask 2: Ask George about, or find, the facebook group for the football club
+  - [x] Subtask 2: Ask George about, or find, the facebook group for the football club
   - [x] Subtask 3: Add new icon suites which, unlike the one currently in use (themify icons) has an icon for TikTok.
 - [ ] Task: Adding a request for partnership
 - [ ] Task: Adding the players photos and their profiles 
