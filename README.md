@@ -10,6 +10,8 @@ These are the things that we want to do. Items that come first in the list are h
   - [x] Subtask 1: Change the config.toml file to only keep the Facebook/TikTok links
   - [x] Subtask 2: Ask George about, or find, the facebook group for the football club
   - [x] Subtask 3: Add new icon suites which, unlike the one currently in use (themify icons) has an icon for TikTok.
+  - [x] Subtask 4: Add one number that when people click on the mobile icon can contact
+  - [x] Subtask 5: Add "Ghana" to the post office address for people to know the country where the team is
 - [ ] Task: Adding a request for partnership
 - [ ] Task: Adding the players photos and their profiles 
 - [ ] Task: Adding what is going on in the team to the "News and Updates" session

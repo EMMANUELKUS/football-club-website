@@ -57,11 +57,11 @@ title = 'STWFC'
   footerDescription = "A great team surrounded by great people"
 
   [params.address]
-  address = "Sunyani,P.O.Box SY1591"
+  address = "Sunyani, P.O.Box SY1591 Ghana"
   email = "sunyaniwisesfc33@gmail.com"
   openingDesc = "Give us a call or email us anytime, we endeavour to answer all enquiries within 24 hours"
   openingHours = "We are open from 7am — 7pm week days."
-  phone = "+(49)17680773775 Or +(233)548553156"
+  phone = "+233548553156"
          
 
   [params.map]
