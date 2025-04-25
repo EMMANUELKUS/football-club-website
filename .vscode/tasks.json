@@ -4,7 +4,7 @@
         {
             "label": "Run site locally",
             "type": "shell",
-            "command": "hugo server",
+            "command": "hugo server --bind 0.0.0.0",
             "runOptions": {
                 "runOn": "folderOpen"
             }
