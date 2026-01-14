@@ -8,9 +8,9 @@ tags: ["Marketing", "News"]
 
   ### A sample heading 
   
-     National joined our second division club in 2021 and fought hard to become one ofg the best goalkeepers in brongb ahafo second division league and became very important to our team
+     Nash joined our second division club in 2021 and fought hard to become one of the best goalkeepers in brong ahafo second division league and became very important to our team
   
   > “In 2023/2024 season Nash joined Cartagena FC in Spain to compete in the Spanish Segunda División ”
   
-  - Nash a great goalkeeper of his kind, all the fans of our team misses him so much and wishing him welll always.
+  - Nash a great goalkeeper of his kind, all the fans of our team misses him so much and wishing him well always.
 
